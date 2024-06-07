@@ -3,8 +3,6 @@
 This is a group project. Take a buddy or make a group of 3. One person will be the driver, the rest observers.
 The driver will code on the computer and the observers can give guidance.
 
-## Gameplan
-
 ## Setup
 
 First, fork this repository to your GitHub account. Next, open your terminal and connect to the LPC cluster (don't forget your port number!). Navigate to your `nobackup` directory and create a new directory where you will work. Create a CMSSW release by running the following commands:
