@@ -1,4 +1,4 @@
-# PURSUE 2024 Coding Dojo
+# PURSUE Coding Dojo
 
 This is a group project. Take a buddy or make a group of 3. One person will be the driver, the rest observers.
 The driver will code on the computer and the observers can give guidance.
